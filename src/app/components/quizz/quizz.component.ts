@@ -9,7 +9,7 @@ import quizz_questions from "../../../assets/data/quizz_questions.json"
 
 export class QuizzComponent implements OnInit {
 
-  title:string = ""
+  title:string = "";
 
   questions:any
   questionSelected:any
